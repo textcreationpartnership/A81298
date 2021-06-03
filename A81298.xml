@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conference between a sick man, and a minister, shewing the nature of presumption, despaire, and the true living faith. / By Hen. Denne, an unworthy Minister of Christ Iesus, at Pryton in Hertfordshire.</title>
+            <author>Denne, Henry, 1606 or 7-1660?</author>
+         </titleStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81298</idno><idno type="EEBO-CITATION">99867348</idno>
+  <idno type="VID">169398</idno>
+  <idno type="EEBO-PROQUEST">2240935472</idno>
+  
+            <idno type="STC">Wing D1015A</idno>
+            <idno type="STC">Thomason E1105_5</idno>
+            <idno type="STC">ESTC R208385</idno>
+            <idno type="PROQUEST">99867348</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867348e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81298)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169398)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1105[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conference between a sick man, and a minister, shewing the nature of presumption, despaire, and the true living faith. / By Hen. Denne, an unworthy Minister of Christ Iesus, at Pryton in Hertfordshire.</title>
+                  <author>Denne, Henry, 1606 or 7-1660?</author>
+               </titleStmt>
+               <extent>[6], 37, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Badger.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Biblical teaching --  Early works to 1800.</term>
+               <term type="topical_term">Faith --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169398:1"/>
+            <p>A CONFERENCE Between a Sick man, and a Minister, shewing the nature of Presumption, Despaire, and the true living Faith.</p>
+            <q>
+               <bibl>
+                  <hi>ESAY 45.25.</hi>
+               </bibl>
+               <p>In the Lord shall all the seed of Israel be ju<g ref="char:EOLhyphen"/>stified, and glory.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 COR. 2.2.</hi>
+               </bibl>
+               <p>I determined not to know any thing among you, save Jesus Christ, and him cru<g ref="char:EOLhyphen"/>cified.</p>
+            </q>
+            <p>
+               <hi>By</hi> HEN. DENNE, <hi>an unworthy Minister of</hi> Christ Iesus, <hi>at</hi> Pyrton <hi>in</hi> Hertfordshire.</p>
+            <p>LONDON, Printed by THO. BADGER, 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169398:2"/>
+            <pb facs="tcp:169398:2"/>
+            <head>To my vvelbelov'd Friends, and Brethren in the Lord, the Inhabitants of <hi>Pyrton,</hi> in the County of <hi>Hertford,</hi> greeting in the Lord Iesus.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Earely Beloved in the Lord, I present these things to your view; that you may see in a briefe Conference the summe of that Doctrine, which (through the grace of God) I haue taught and you belee<g ref="char:EOLhyphen"/>ved. I confesse you have cause to say, that you have heard many things
+<pb facs="tcp:169398:3"/>from me, which are not here mentio<g ref="char:EOLhyphen"/>ned: Yet this you will witnes on my behalf, that here is nothing set down which you have not before heard. I have in this present discourse imita<g ref="char:EOLhyphen"/>ted the Geographer, who intending to describe a large Countrey in a small Map, contenteth himselfe to set down the chiefe Towns, and let the smal<g ref="char:EOLhyphen"/>ler Villages, passe without any men<g ref="char:EOLhyphen"/>tion. Thus have I (being to draw the substance of <hi>10</hi> yeares Sermons into a few lines) contented my selfe, with the Description of the most materiall and fund<g ref="char:EOLhyphen"/>mentall Doctrines, which I have de<g ref="char:EOLhyphen"/>livered unto you. And this I have done, not only to testifie my unfained love, which I beare unto you, and my ardent desire that your soules
+<pb facs="tcp:169398:3"/>may prosper. But also to signifie unto the World, that I am ready to give an account of my Faith, and to defend my Doctrine (against all opposers) from such clamors and aspersions as have been always laid upon it, But especially when I delivered this Ser<g ref="char:EOLhyphen"/>mon, which you have seene already. And I am confident I shall be able to do this, through the grace of God, given unto me, by your ardent pray<g ref="char:EOLhyphen"/>ers to God for me, that utterance may be given me, that I may open my mouth boldly, and declare the mystery of the Gospell, to his glory, and your consolation. The grace of our Lord Jesus Christ be with your spirit. Amen.</p>
+            <closer>
+               <signed>Your most unworthy Mi<g ref="char:EOLhyphen"/>nister HEN. DENNE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:169398:4"/>
+            <pb n="1" facs="tcp:169398:4"/>
+            <head>A CONFERENCE Between a Sick man, and his Pastor: wherein after or<g ref="char:EOLhyphen"/>dinary salutations given, and re<g ref="char:EOLhyphen"/>ceived; the Sick man beginneth thus.</head>
+            <sp>
+               <speaker>Sick man.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">S</seg>Ir what judge you of my spi<g ref="char:EOLhyphen"/>rituall estate and condi<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Minister.</speaker>
+               <p>Charity judgeth the best; but what man knoweth the things of a man, save the spirit of a man which is in him.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>I have a stedfast hope in
+<pb n="2" facs="tcp:169398:5"/>Almighty God, that I shall be saved when I dye.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Blessed is he that is able to give a reason of the hope that is in him, with meeknesse and feare.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I have many reasons of my hope, first, I have an earnest desire to be saved above all thinks in the world.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This reason may deceive you; For it is written, <hi>Many shall seek, to enter and shall not be able.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>How then doth the promise stand good;</hi> Aske and it shall be given you, seek and ye shall find, knock and it shall be opened, <hi>Mat.</hi> 7.7, 8.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This promise is not made un<g ref="char:EOLhyphen"/>to every particular person, but only to the Disciples and in them to all belee<g ref="char:EOLhyphen"/>vers, <hi>Matth.</hi> 21.22. <hi>Whatsoever ye shall aske in prayer, if ye beleeve ye shall receive it,</hi> and <hi>John</hi> 15.7. <hi>If ye abide in me and my words abide in you, aske what ye will and it shall be done to you.</hi> See also <hi>Mark,</hi> 11.24.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>What say you to this gracious pro<g ref="char:EOLhyphen"/>mise?</hi>
+                  <pb n="3" facs="tcp:169398:5"/>Blessed are they which hunger and thirst after righteousnesse, for they shall be filled, <hi>Mat.</hi> 5.6.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I say to this as to the former: that this promise is made only to be<g ref="char:EOLhyphen"/>leevers, <hi>Luke</hi> 6.20. <hi>And he lifted up his eyes upon his Disciples and said, Blessed are ye that hunger,</hi> &amp;c. Is it not sayd, blessed are they that mourn? yet are not all mourners blessed.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I have heard, and I thinke reade, that a desire to beleeve is Faith it selfe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>The poore man can tell you that, to be rich, and to desire to be rich, are two things; even so is Faith and a desire to Beleeve, as all that desire to be rich, are not rich; so all that desire to beleeve, do not beleeve.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Have I thus beene decei<g ref="char:EOLhyphen"/>ved?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>It is requisite that you first prove your self a beleever &amp; mēber of Christ than may you apply these promises to
+<pb n="4" facs="tcp:169398:6"/>selfe, otherwise not so, <hi>He that beleeveth shall be saved; He that beleeveth not shall be damned, Mark.</hi> 16.16.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Can you shew me any that have sought God, and not found him?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yes very many, for thus we read; <hi>They shall call upon mee, but I will not answer: They shall seek me ear<g ref="char:EOLhyphen"/>ly, but they shall not find mee, Prov.</hi> 1.28. <hi>Mich.</hi> 3.4. <hi>Psal.</hi> 109. <hi>Let his prayer become sin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>These all sought freedome from temporall punishments only?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You speake more than you have warrant, for I will shew you men seeking after righteousnesse, yet have not attained unto it.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Then I shall heerein be satis<g ref="char:EOLhyphen"/>fied?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>We read plainly, <hi>that Israel that followed after the Law of righteous<g ref="char:EOLhyphen"/>nesse, hath not attained unto the Law of righteousnesse, Rom.</hi> 9.31. and 10.20.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>They sought it not in Faith.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You say true, neither have you
+<pb n="5" facs="tcp:169398:6"/>proved, that you seeke it in Faith, which so soon as you shall do, I will be ready to minister words of comfort unto you.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Who can hold that which will away? I have used carefully all meanes appointed to Salvation, for the attaining thereof.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>These all, may be cut short with; <hi>One thing lackest thou yet, Marke</hi> 10.21. Let mee heare you give in<g ref="char:EOLhyphen"/>stance.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I have had a care to keepe God's Law, to do all things commanded, and to shun all things forbidden, to the uttermost of my power: and this is the second reason of my hope.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This I hardly beleeve it is like that in the Gospell. <hi>All these things have I kept from my youth.</hi> But if it be true, what can this reason availe seeing, <hi>by the deeds of the Law, no flesh can be justifi<g ref="char:EOLhyphen"/>ed, as it is written, Rom.</hi> 3.20.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Is it not said?</hi> Blessed are they that keep his testimonies, <hi>Psal.</hi> 119.2.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:169398:7"/>
+               <speaker>Min.</speaker>
+               <p>Have you then kept the Law of God with your whole heart?</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>No, neither can any man keepe it; but I have had a desire to keepe it,</hi> and God accepts the will for the deed.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>How can that be generally true? seeing the Law saith, <hi>Cursed is every one that continueth not in all things that are written in the Book of this Law, to do them, Gal.</hi> 3.10. Whereby it is plaine, that the Law requires under paine of curse, not only to will, but also to do.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Is it not not written?</hi> If there be, first, a willing mind, it is accepted according to that a man hath, and not according to that he hath not, 2 <hi>Cor.</hi> 8.12.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>When the person is first ac<g ref="char:EOLhyphen"/>cepted, the will is accepted for the deed: So God accepteth of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> as though he had offered his son, <hi>Gen.</hi> 22.16. But the person not accep<g ref="char:EOLhyphen"/>ted, the will cannot be accepted for
+<pb n="7" facs="tcp:169398:7"/>the deed: before you can assure your selfe by this will; you must see that your person be accepted.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>Cannot a man attaine to life by keeping of the Law of God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yes, if he keepe it in all and e<g ref="char:EOLhyphen"/>very point without any breach at all, <hi>Rom.</hi> 2.7. <hi>Deut.</hi> 11.26, 27. but not other<g ref="char:EOLhyphen"/>wise, <hi>for he that offendeth in one is guilty of all, James</hi> 2.10.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Why then doth our Saviour di<g ref="char:EOLhyphen"/>rect the young-man in the Gospell this way, Math.</hi> 19 17.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You might have asked as well to what purpose serveth the Law? and I <hi>should have answered you, that it was added, bocause of Transgressions, Gal</hi> 3.19.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>How do you apply this to the pur<g ref="char:EOLhyphen"/>pose?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>As the Law was given, that all might be concluded under sin, <hi>Gal.</hi> 3.22. <hi>Rom.</hi> 3.9. That all the world might become guilty before God: So doth our Saviour give this direction
+<pb n="8" facs="tcp:169398:8"/>unto this young man, <hi>not that he thought it possible for him to attaine life thereby:</hi> But that he might discover the pride, arrogancy, and deceitfulnesse of his heart, and answer him according to his own question.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>If I should instance in private prayer to be a marke of my Salvation. I so already it might after the same manner be rejected, unlesse I could prove it to pro<g ref="char:EOLhyphen"/>ceed from Faith.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You say true, workes in<g ref="char:EOLhyphen"/>deed are an evidence of Faith among men, in the judgement of Charity, <hi>James</hi> 2.18. But Faith is an evidence of our works in the Court of Consci<g ref="char:EOLhyphen"/>ence, and judgement of certeinty: for <hi>even the prayer of the wicked is abomina<g ref="char:EOLhyphen"/>ble, and whatsoever is not of Faith is sin, Rom.</hi> 14.23.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>What thinke you of true repen<g ref="char:EOLhyphen"/>tance, is not that a sure marke of Salvati<g ref="char:EOLhyphen"/>on?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Without faile.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Then Here is comfort for
+<pb n="9" facs="tcp:169398:8"/>mee, for I have truly Repen<g ref="char:EOLhyphen"/>ted.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>
+                  <hi>Not he that approveth himselfe is accepted, but he whom the Lord appro<g ref="char:EOLhyphen"/>veth,</hi> 2 <hi>Cor.</hi> 10 18. How know you your repentance to be true?</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>By two things, the first is, I have a hearty sorrow for all and every one of my sins.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>All that do truly repent, do indeed heartily sorrow for sin, 2 <hi>Cor.</hi> 7.10. But all that do heartily sorrow for sin do not truly repent.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>Did ever any reprobates sorrow heartily for their sins?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yes, <hi>Cain, Genesis</hi> 4.13. <hi>Esau, Gen.</hi> 27.38. <hi>Judas, Matthew</hi> 27.3. <hi>Judas repented himselfe,</hi> and doubtlesse all that despaire do hear<g ref="char:EOLhyphen"/>tily sorrow for sinne, as they that are swallowed up with over much sorrow, 2 <hi>Cor.</hi> 2.7.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I do not only sorrow for mysins, but I have also a stedfast purpose to
+<pb n="10" facs="tcp:169398:9"/>forsake all sinne, and to walke in all godlinesse.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Doth not our Lord Iesus tell you, <hi>that except your righteousnesse do exceed the righteousnesse of the Scribes and Pharisees, ye cannot enter into the Kingdome of God? Math.</hi> 5.20.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Had any of the Scribes and Pha<g ref="char:EOLhyphen"/>risees a purpose to lead a godly life?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Heare what S. <hi>Paul</hi> (a Pha<g ref="char:EOLhyphen"/>risee) saith of himselfe, that before his Conversion he was <hi>as touching the righteousnesse that is in the Law, blame<g ref="char:EOLhyphen"/>lesse, Phil.</hi> 3.6. <hi>Acts</hi> 22.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Yea but Paul persecuted the Church of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This indeed was a great, but yet unknown sin, but in his conceit a vertue, <hi>Phil.</hi> 3.6. 1 <hi>Tim.</hi> 1.13. This al<g ref="char:EOLhyphen"/>so may be your error, to thinke you do God service, when you sin hainously.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Is it ordinary for men to be zea<g ref="char:EOLhyphen"/>lous before true conversion to God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You see the unconverted Iews, of whom the holy Ghost giveth
+<pb n="11" facs="tcp:169398:9"/>testimony. First, <hi>that they have a zeale to God.</hi> Secondly, <hi>that they seeke to establish their own righteousnesse, Rom.</hi> 10.2.3.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>I know not what more to say: if this be not true repentance, I pray what is?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>That shall be shewed anon, let us first heare what other evidence you have of Salvation?</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I have but one only stay more, if that also faile, Lord have mercy on me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Let me heare that stay also.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I love Gods people unfainedly, with all my heart, what thinke you of this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Take heed your heart deceive you not, and that this prove not also a reed to leane upon.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>How? This also a reed to leane on, Why then nothing will please you, I see, 'twill be but in vaine to talke any further.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Be patient (deare brother) and give me leave to search your wound to the quick, I hope it shall through Gods grace, turne to your soules welfare in Christ Iesus.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:169398:10"/>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>Doth not Saint John say plaine, We know we have passed from death to lif, because we love the brethren?</hi> 1 <hi>Joh.</hi> 3.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I deny not but where unfained love to the brethren is sound it may be a testimony of grace received? But I demand how you know you love the brethren?</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Why how should I know?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>By this we know, <hi>If we love God and keep his Commandements,</hi> 1 <hi>Joh.</hi> 5.2. and <hi>this is his Commandement, that we should beleeve on the name of his Son Jesus Christ,</hi> 1 <hi>John</hi> 3.23. So that un<g ref="char:EOLhyphen"/>lesse we beleeve truly, we cannot know we love unfainedly, therefore though our love beare witnesse to our Faith before man, yet our Faith beares wit<g ref="char:EOLhyphen"/>nesse to our love in the secrets of our heart; neither can it ever appeare to be true love, that proceedes not from a heart first imbracing Christ by Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>What you call true Faith, I know not: I feele my heart inflamed
+<pb n="13" facs="tcp:169398:10"/>with love to the Brethren.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Take heed your heart deceive you not; do not you know some of the children of God, and your brethren in great poverty?</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Yes, I do.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Why then have you not sold either the whole, or halfe of your pos<g ref="char:EOLhyphen"/>sessions and divided among them?</p>
+            </sp>
+            <sp>
+               <speaker>Sik.</speaker>
+               <p>
+                  <hi>Can I not love them unlesse I sell my possessions and divide among them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Verily no, for true love bin<g ref="char:EOLhyphen"/>deth us not only <hi>to lay down our goods,</hi> for the brethren, as <hi>Acts</hi> 2.45. <hi>but also our lives,</hi> where need requireth, 1 <hi>John</hi> 3.16, 17.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>I confesse I have not thus loved them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Then have you loved them in word, and not in deed, in tongue and not in truth, 1 <hi>Joh.</hi> 3.18.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>I doe beleeve that there are very few that by this marke can be assu<g ref="char:EOLhyphen"/>red of Salvation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:169398:11"/>
+               <speaker>Min.</speaker>
+               <p>I am of your mind, for when we consider our love to our brethren, to come so far short of the precept and example of our Lord, and his holy A<g ref="char:EOLhyphen"/>postles, we shall have greater cause to feare, than otherwise.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>What then should Saint John meane?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I do for the present beleeve untill I shall see ground to the contra<g ref="char:EOLhyphen"/>ry, that Saint <hi>John</hi> doth principally speake of our assurance, whereby we know one another to be the children of God: By this shall all men know ye are my Disciples, if ye love one an<g ref="char:EOLhyphen"/>other, <hi>John</hi> 13.35. Yet do I not deny but that love or any other vertue ha<g ref="char:EOLhyphen"/>ving first received testimony from Faith, may be thereby qualified to beare witnesse together with Faith, and no otherwise.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>But when I cannot see I beleeve, and yet do perceive that I love.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>The light of the soule is Faith: if Faith be obscured, shall
+<pb n="15" facs="tcp:169398:11"/>not love be much more darkened?</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Alas, this was my only stay!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I dare affirme that he that hath no greater witnesse in himselfe than love to the brethren, shall never attaine unto assurance of Salvation, 1 <hi>John</hi> 5.10.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Is there any greater witnesse than love?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yes, which I wonder you have not seen as yet; <hi>the Spirit of God bearing witnesse to our spirits, that we are the children of God, Rom.</hi> 8.15, 16. Now the Spirit beareth witnesse by teaching us to cry, <hi>Abba</hi> father.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Oh, that I had such a spirit, but woe is me, How have I hitherto been de<g ref="char:EOLhyphen"/>ceived? how have I also deceived others? my stayes are broken, and I shall bee cast head-long to hell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Say not so.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Yes, cursed be the time that ever I laid a foundation upon the sands. I had thought Righteousnesse hod been mine, Heaven mine, but now Hell gapeth
+<pb n="16" facs="tcp:169398:12"/>for me, and I shall be damned.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>As you have been hitherto deceived, so I hope you are also now.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Alas how is it possible that I should now learne the ways of salvation? When as I (as you see) have laboured so many yeares in vaine, and profited nothing at all in true godlinesse?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Be not discouraged, only be content to heare what the Lord will speake.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Alas, I have scarce an houre to live, and is it possible to work out Heaven in an houre? Is it possible that one houres repentance should make amends for sixty yeares ignorance?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You multiply words without knowledge, which are no lesse than blasphemy: How do you thinke that amends can be made by you, when sixty yeares repentance cannot make a<g ref="char:EOLhyphen"/>mends for one houres negligence, and you understand not what you say when you talke of working out Heaven.</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:169398:12"/>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>Are there not many things to be done by us, before we can be saved?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>What judge you? when it is said, <hi>God hath saved us and called us not according to our works; but according to his own purpose, and grace which was gi<g ref="char:EOLhyphen"/>ven us in Christ Jesus before the world began,</hi> 2 <hi>Tim.</hi> 1.9. Is it not spok<g ref="char:EOLhyphen"/>en mystically, as well as literally? <hi>Their strength is to sit still, Esay,</hi> 30.9. In <hi>returning and rest shall ye be saved, in quietnesse and confidence, shall be your strength, Esay</hi> 30.15. I might adde to this, <hi>stand still and behold the salvation of the Lord.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>These indeed are comfortable words, But this quencheth all, in that it is said,</hi> narrow is the way, strait is the gate, and few there be that find it.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This contradicteth not what hath been said, <hi>Narrow it is indeed, and strait to flesh and bloud, which cannot in<g ref="char:EOLhyphen"/>herit the Kingdome of God,</hi> 1 <hi>Cor.</hi> 15. So narrow that the greatest wisdome of man cannot find it, 1 <hi>Cor.</hi> 2.8.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:169398:13"/>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Alas! how shall I do then?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yet not so strait, but even fooles may find it when God teacheth, 1 <hi>Cor.</hi> 1.7. and how comfortable are the words of our blessed Saviour: <hi>Fa<g ref="char:EOLhyphen"/>ther, I thanke thee that thou hast hid these things from the wise and prudent, and re<g ref="char:EOLhyphen"/>vealed them to babes.</hi> Are not all things possible to God?</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Did any ever learne the way to Heaven in so short a time, as I have to live.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yes, the Thiefe upon the Crosse, <hi>Math.</hi> 27.44. <hi>Luke</hi> 23.42. The Iews at <hi>Peters</hi> Sermon, <hi>Acts</hi> 2.41. The Iaylor, <hi>Acts</hi> 16.33. with divers o<g ref="char:EOLhyphen"/>thers.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Now my heart reviveth within me: The Lord teach me also: and I hum<g ref="char:EOLhyphen"/>bly beseech you to do your best endeavour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>God forbid that I should hide any thing from you, do you acknow<g ref="char:EOLhyphen"/>ledge your selfe a wretched sinner?</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Oh miserable man that I am! Who shall deliver me from this vile estate?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:169398:13"/>
+               <speaker>Min.</speaker>
+               <p>Do you thinke any creature is able to deliver you or can you, deliver your selfe?</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Help Lord, for vaine is the help of man; who shall be able to take away my sins?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Heare the goodnesse of our God, who hath sent his <hi>only begotten Son Jesus Christ, to take our nature upon him, Heb.</hi> 2.16.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>This I beleeve.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This blessed Son of God, was conceived by the holy Ghost, borne of a Virgin, was without spot of fin, and in our nature hath wrought all righte<g ref="char:EOLhyphen"/>ousnesse, and therefore by vertue of this his righteousnesse, might have challenged all blessings promised to the obedient, <hi>Luk.</hi> 1.32. <hi>Mat.</hi> 3.1 <hi>Pet.</hi> 2.22. <hi>Deut.</hi> 28.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>This I also beleeve to be most true.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This same Iesus who might have challenged a blessing and free<g ref="char:EOLhyphen"/>dome from the curse, yet was he con<g ref="char:EOLhyphen"/>tented
+<pb n="20" facs="tcp:169398:14"/>to become a curse for us, and to suffer reproach and shame, and the death of the Crosse: <hi>Gal.</hi> 3.13.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I beleeve that Christ suffered such things indeed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This same Iesus hath God raised up; having loosed the paines of death, for it was not possible he should be holden of it. <hi>Act.</hi> 2.24.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>This also I beleeve.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>By vertue of this precious death and satisfactory sacrifice of Iesus Christ, <hi>Wee are reconciled to God, and have received attonement,</hi> Romans 5.10, <hi>freedome from all sinne, with perfect righteousnesse.</hi> Rom. 4.25.6.10.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I pray have patience, this is more then I yet beleeve, that Christ hath fully freed any from all sinne in this life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yes, from the imputation of sinne, as is plaine, <hi>by him yee are justified from all things,</hi> Act. 13.39. and <hi>the bloud of Jesus Christ his Son purgeth us
+<pb n="21" facs="tcp:169398:14"/>from all sin,</hi> 1 <hi>John</hi> 1.9. See <hi>Ephe.</hi> 5.27 and <hi>Col.</hi> 1.22. To make you holy and unblameable and without fault, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>This I cannot deny, yet do I not so fully conceive it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Christ Iesus our Lord hath taken our sins upon himselfe, <hi>Esay</hi> 53.4 2 <hi>Cor.</hi> 5.21. and by his death and suffe<g ref="char:EOLhyphen"/>ring hath given a full perfect and suffi<g ref="char:EOLhyphen"/>cient satisfaction to God the Father, <hi>Matthew,</hi> 3.17. <hi>Heb.</hi> 10.14. as ha<g ref="char:EOLhyphen"/>ving borne all punishments due unto sin by the Law, as wel temporal as eter<g ref="char:EOLhyphen"/>nall.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>That Christ Jesus hath freed his elect from all eternall punishments, I confesse, but I do not beleeve that hee hath freed them from tempo<g ref="char:EOLhyphen"/>rall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I will aske you one question; was not the satisfaction of the se<g ref="char:EOLhyphen"/>cond <hi>Adam,</hi> as effectuall to our righteousnesse, as the transgression of the first <hi>Adam</hi> to our unrighteous<g ref="char:EOLhyphen"/>nesse?</p>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:169398:15"/>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I dare not say the contrary, for the Apostle saith no lesse, Rom.</hi> 5.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>But by the transgression of the first <hi>Adam,</hi> we were made subject both to temporall and eternall punish<g ref="char:EOLhyphen"/>ments; Therefore by the satisfaction of our Lord Christ, the second <hi>Adam,</hi> we are made free from both.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Yet do we not see that the people of God have many punishments laid upon them, in this present life, as weaknes, sick<g ref="char:EOLhyphen"/>nesse, death?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>They are fatherly chastisements rather than punishments, for when we are judged we are chastened of the Lord, that we should not be condemn'd with the world, 1 <hi>Cor.</hi> 11.32.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Let God be just, and every man a lyar, I pray proceed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>By vertue of the Lord Christs satisfaction unto Divine Iustice, <hi>Gods wrath is appeased, Mat.</hi> 3.17 <hi>Sin is taken away, John</hi> 1, 29. <hi>Never to be remembred any more, Heb.</hi> 8.12.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Lord, so take mine away. But I
+<pb n="23" facs="tcp:169398:15"/>pray when is the time that sin is taken a<g ref="char:EOLhyphen"/>way out of the sight of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Remission <hi>of sin</hi> is even as ancient as satisfaction <hi>for sinne,</hi> and at what time Christ Iesus taketh our sinnes upon himselfe, at the same time are the persons of Gods elect just before the Tribunall of Almigh<g ref="char:EOLhyphen"/>ty God.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I pray shew us authority for this, for I have alwayes learned that faith it selfe, is in order of causes before our actu<g ref="char:EOLhyphen"/>all justification in the sight of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>That the act of our faith is a consequent of our Iustification, and not an intercedent, is plaine: <hi>God justifieth the ungodly: We were recon<g ref="char:EOLhyphen"/>ciled to God, by the death of his Sonne when we were enemies:</hi> Rom. 5.10. Now beleevers cannot be called e<g ref="char:EOLhyphen"/>nemies, but friends. But we were reconciled when we were enemies. <hi>Esay</hi> 32.17. <hi>the effect of righteous<g ref="char:EOLhyphen"/>nesse is assurance.</hi> They that are in<g ref="char:EOLhyphen"/>grafted into Christ Iesus are justified:
+<pb n="24" facs="tcp:169398:16"/>But we must be ingrafted into Christ Iesus before we can beleeve, Therefore we must be justified before we can beleeve.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>How do you prove we must be ingrafted into Christ Jesus before we can beleeve?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>To beleeve is a good fruit, but we can beare no good fruit un<g ref="char:EOLhyphen"/>till we be ingrafted into Christ Iesus: <hi>I am the Vine, yee are the branches; with<g ref="char:EOLhyphen"/>out mee yee can doe nothing:</hi> Iohn 15.5. <hi>The branch cannot beare any fruit except it bee incorporated into the Vine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Do we not read, whom he hath cal<g ref="char:EOLhyphen"/>led, them he justified? where you see that</hi> justified <hi>is set before called.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>The order of words prove nothing: was it not a ridiculous conceit of the Rabbi, that undertakes to prove unto us, that a certain bullock had horns before hoofs, because it is said <hi>Ps.</hi> 69. <hi>better then a bullock which hath horns and hoofes,</hi> and have you forgotten that place which I
+<pb n="25" facs="tcp:169398:16"/>spake of even now, who hath saved us and called us? where you see saved set before called.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I now see plainly that the world is in darknesse, I do perceive that justification in Gods sight, goeth before faith: but I do not yet perceive that remission should be as ancient as satisfaction.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>S. <hi>Peter</hi> saith, that <hi>Christ bare our sins in his own body, on the tree, that we being delivered from sin, should live in righteousnesse,</hi> 1 Pet. 2.24, Saint <hi>John</hi> tels us Christ <hi>tooke them away: Behold yee the Lambe of God that ta<g ref="char:EOLhyphen"/>keth away the sinnes of the World:</hi> if the justice of God hath layd all our iniquities upon his backe, hath not his mercy taken them from us? If the Lord Christ did take them away, then are they no more.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>This is plaine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I can shew you this by ma<g ref="char:EOLhyphen"/>ny more arguments, when opportuni<g ref="char:EOLhyphen"/>ty shall serve.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I pray go forward where we left.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="26" facs="tcp:169398:17"/>
+               <speaker>Min.</speaker>
+               <p>This same Iesus is ascended up into heaven, and there he sitteth for e<g ref="char:EOLhyphen"/>ver, at the right hand of God, to make intercession for us; by vertue whereof, we have boldnesse of accesse unto the Throne of grace, knowing that as our persons are accepted, so are our prayers respected in his presence, <hi>Heb.</hi> 4.16. <hi>Iohn</hi> 16.23.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>These indeed are comfortable words to them that have Christ; but how shall Christ be made mine? what works are required of me before Christ can be made mine?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You erre greatly, neither know<g ref="char:EOLhyphen"/>ing the scripture, neither the power of God, nor yet remembring what you granted even now.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I pray shew me my errour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>First Christ is not made ours, neither applied unto us, by any works of the Law. <hi>Gal.</hi> 3.2.11.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>This indeed is an errour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Your supposition is also absurd, namely, that it is possible for you to do good workes before you have Christ,
+<pb n="27" facs="tcp:169398:17"/>when as before we said, you must have Christ before you can do any good, works: without me ye can do nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>This was my conceit indeed, that by working righteousnesse, a man was made righteous.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You see the contrary hath been proved true: First, make the tree good, and then his fruit good, <hi>Mat.</hi> 7. a man must first be righteous, before he can worke righteousnesse; good manners do not make a good man: but a good man worketh good manners.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I acknowledge my blindnesse, I pray then how is Christ made ours?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Christ is made ours by Gods imputation or accounting. <hi>Rom.</hi> 4.3.9.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I greatly desire to heare this more fully explained.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Looke by what way or meanes our sins were made Christs, after the same manner, and by the same meanes, his righteousnesse is made ours: But our sins became his, by Gods accounting, as <hi>the Lord laid on him the iniquity of us all,</hi>
+                  <pb n="28" facs="tcp:169398:18"/>so by the same account of God (who calleth things that are not as though they were) his righteousnesse is made ours: as he became sinne for us, so are wee made the righteousnesse of God in him. Thus are we justified free<g ref="char:EOLhyphen"/>ly by his grace, by his bloud: Thus it is God that justifieth.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I pray resolve me one doubt: How wee are said to bee justified by Faith.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Faith is taken two wayes; first, for the object of our faith: that is, the thing which wee do beleeve, as also hope is taken (Christ our hope) so we are justified by faith, that is, by the bloud of Iesus Christ. Secondly, faith is taken for the act of our faith, be<g ref="char:EOLhyphen"/>holding the glorious object, and so wee are assured of our justification. Iustified before God by the object of our faith, assured by the act of our Faith, apprehending this ob<g ref="char:EOLhyphen"/>ject.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>I perceive now that they only
+<pb n="29" facs="tcp:169398:18"/>are righteous whom God accounteth righteous, whose Salvation is wrought in Christ Iesus. How shall I know whether Christ hath satisfied for mee, and so whether God accounteth me righte<g ref="char:EOLhyphen"/>ous or not?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>The knowledge of this commeth by Faith, for the promise is made to beleevers, <hi>John</hi> 3.16. And this is the proper office of Faith, to bee perswaded of Gods mercy to us in particular, <hi>Romanes</hi> 8.38.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>Is nothing else required at our hands to procure assurance, but only to beleeve?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>When the soule is loaden with the burden of sin, and sence of mi<g ref="char:EOLhyphen"/>sery, <hi>it is sufficient for assurance to be<g ref="char:EOLhyphen"/>leeve God in his promises,</hi> and we read of nothing else, <hi>Acts</hi> 16.31. Beleeve in the Lord Iesus.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>What thinke you of Repentance? is not that also necessary?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You now give me just oc<g ref="char:EOLhyphen"/>casion
+<pb n="30" facs="tcp:169398:19"/>to shew you that which before you desired; namely, what is true re<g ref="char:EOLhyphen"/>pentance.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>That have I longed for all this while; I pray declare it unto me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Repentance is a contrition or sorrow for sin, which is joyned with Faith in the Lord Iesus Christ.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>You make Faith a part of Repen<g ref="char:EOLhyphen"/>tance, have you any authors for this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yes, as the learned know; But I wish you not to build your confidence on men, but upon the testimony of Gods Word.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I pray shew me where this descri<g ref="char:EOLhyphen"/>ption can be warranted by Gods Word?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>That repentance under the new Covenant doth comprehend Faith wil be plaine, if you compare the 16. <hi>chap.</hi> of the <hi>Act. ver.</hi> 31. with <hi>Act.</hi> 2.38. in the first place the question is, what shall I do to be saved? the answer is, Beleeve, <hi>&amp;c.</hi> In the 2. of the <hi>Act.</hi> the question is the same, and is answered by <hi>Peter, Re<g ref="char:EOLhyphen"/>pent and be baptized;</hi> therefore either
+<pb n="31" facs="tcp:169398:19"/>repentance must include Faith, or else S. <hi>Peter</hi> giveth not a full answer.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>This is very likely to be so, and there we see that they are bidden to repent, who were pricked in the heart already.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>It is said that <hi>John Bap.</hi> preach<g ref="char:EOLhyphen"/>ed, Repent. <hi>&amp;c. Mat.</hi> 3. S. <hi>Paul</hi> expound<g ref="char:EOLhyphen"/>ing this <hi>Act.</hi> 19.4. saith that <hi>Iohn preach<g ref="char:EOLhyphen"/>ed the Baptisme of Repentance,</hi> saying that they should beleeve; what more plain than this?</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Why doth the holy Ghost use this word Repent?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>It is a very fit word, which signifieth, change your minds; now we know the people of the Iews, being un<g ref="char:EOLhyphen"/>der the Law, did seek to establish their own righteousnesse thereby, which be<g ref="char:EOLhyphen"/>ing impossible, the holy Ghost doth ve<g ref="char:EOLhyphen"/>ry significantly use this word; that all men should repent (that is) change their minds and looke no longer for righteousnesse from the Law; but look unto the author of their salvation before promised, but now at the last manife<g ref="char:EOLhyphen"/>sted.</p>
+            </sp>
+            <sp>
+               <pb n="32" facs="tcp:169398:20"/>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Is not newnesse of life a part of Repentance?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yes, Faith is our new life; the <hi>Just shall live by Faith, Rom.</hi> 1.17.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Are not good works a part of Re<g ref="char:EOLhyphen"/>pentance?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>They are rather termed in the book of God <hi>fruits meet for repentance, Mat.</hi> 3.8. <hi>Act.</hi> 26.19. <hi>and fruits worthy of repentance, Luk.</hi> 3.8.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Why are they so called?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Because they that repent, should be carefull above all things, to deny all ungodlinesse and worldly lusts, and to live soberly, righteously, and godly in this present world, <hi>Tit.</hi> 2.12.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I remember I have read of Repen<g ref="char:EOLhyphen"/>tance &amp; Faith, as two things in Scripture.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I do not say they are altoge<g ref="char:EOLhyphen"/>ther one and the same, but differ as the part and whole; moreover repentance is sometimes taken in Scripture for an alteration of some one particular act: But that which I have declared is what <hi>John</hi> and our blessed Saviour do mean by this word, <hi>Repent,</hi> for the King<g ref="char:EOLhyphen"/>dome
+<pb n="33" facs="tcp:169398:20"/>of God is at hand.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>You said before, that for assurance I must beleeve, what must I beleeve?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>That God hath forgiven you your sins, <hi>and given you eternall life in his Son,</hi> 1 <hi>John</hi> 5.11.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>Can you shew me any reason why I should beleeve this, rather than Judas?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You must not looke at reason; but imitate father <hi>Abraham,</hi> who against hope beleeved in hope, <hi>Rom.</hi> 4.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>God doth not say to me in parti<g ref="char:EOLhyphen"/>cular, that my sins are forgiven.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>If you will beleeve it, he speak<g ref="char:EOLhyphen"/>eth to you in particular, for he speak<g ref="char:EOLhyphen"/>eth to every beleever.</p>
+            </sp>
+            <sp>
+               <speaker>Sick</speaker>
+               <p>
+                  <hi>I am a miserable sinner.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Otherwise what need had you of Christ, who came to call sinners? Consider not the greatnes of your sins, but be strong in Faith, giving glory to God, being <hi>fully perswaded that what he hath promised he is able to performe, Rom.</hi> 4.21. <hi>Though your sins were as red as scar<g ref="char:EOLhyphen"/>let, I will make them as white as snow, E<g ref="char:EOLhyphen"/>say</hi> 1.</p>
+            </sp>
+            <sp>
+               <pb n="34" facs="tcp:169398:21"/>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>If I were as holy as Peter, or Paul, I could then beleeve.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Holinesse cannot go before Faith, but must follow it: look not upon your selfe, but upon the sufficient satis<g ref="char:EOLhyphen"/>faction of Christ Iesus, Come unto him loaden, and he shall ease you, <hi>Mat.</hi> 11.28. Thirsty, and he shall refresh you <hi>Ioh.</hi> 7. Empty, and he shall fill you, <hi>Lu.</hi> 1</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>I am loaden, Lord ease me: How do men come by Faith?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mi.</speaker>
+               <p>Faith is the gift of God wrought in the heart by hearing of the Word of promise, <hi>Rom.</hi> 10.17. <hi>Gal.</hi> 3.2. which word hath been already spoken to you.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Oh! How slow am I to beleeve? Lord help my unbeleefe; let me intreat you and the rest of this Christian company to call upon God, that I may beleeve and grow in this perswasion of the free pardon, and forgivenesse of sins in Christ Jesus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>With all my heart, the Lord heare our prayer; O Lord thou art God which hast made Heaven and earth, and all that in them is; who by the
+<pb n="35" facs="tcp:169398:21"/>mouth of thy holy child Iesus, hast pro<g ref="char:EOLhyphen"/>mised that whatsoever we aske in his name, thou wilt grant unto us. O Lord behold thy servant, and grant him thy grace, that he may be filled with thy holy Spirit; the spirit of Wisdom, and understanding, and revelation in the knowledge of Christ Iesus; that the eyes of his understanding being inligh<g ref="char:EOLhyphen"/>tened, he may know the hope of thy calling, and the riches of thine inheri<g ref="char:EOLhyphen"/>tance in the Saints, that he may be fil<g ref="char:EOLhyphen"/>led with righteousnesse and peace, and joy in the holy Ghost: Good Lord, sanctifie him wholly, and let his whole spirit, and soule, and body be preserved blamelesse, unto the comming of our Lord Iesus Christ, <hi>Amen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>Amen, Amen. May it not prove presumption in me to beleeve the pardon of my sins?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Not so long as you beleeve them pardoned, not for your merit, but for Gods mercy sake.</p>
+            </sp>
+            <sp>
+               <speaker>Sic.</speaker>
+               <p>
+                  <hi>My merit is nothing, his mercy is
+<pb n="36" facs="tcp:169398:22"/>over all; How great is the goodnesse of God toward me, who hath forgiven mine iniquity, and pardoned my sin! Lord now lettest thou thy servant depart in peace, for mine eyes have seen thy salvation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Blessed be the Father of our Lord Iesus Christ, who leaveth us not destitute of his mercy.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>Now what shall I render unto the Lord for his mercy? for the forgivenesse of my sins, and the gift of his holy Spirit?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You are to present your body a living sacrifice, holy, and acceptable unto God: and be not conformed to this world, but be transformed by the renewing of your mind, <hi>Rom.</hi> 12.</p>
+            </sp>
+            <sp>
+               <speaker>Sick.</speaker>
+               <p>
+                  <hi>The Lord direct me in all my ways, I desire to receive from your hands the holy Communion for the increase of my weake Faith, and in remembrance of the precious Passion of my Blessed Saviour: And now whether I live or dye, the halfe of my goods will I give to the poore, and if I have taken any thing from any man by forged accusation, I restore him fourefold.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="37" facs="tcp:169398:22"/>
+               <speaker>Min.</speaker>
+               <p>Glory be to God, who can deny Salvation to be come to this house, forasmuch as it hath pleased God to begin this good worke? which he continue unto the end, through Iesus Christ our Lord, <hi>Amen.</hi>
+               </p>
+            </sp>
+            <epigraph>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
